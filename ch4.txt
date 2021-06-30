@@ -1,0 +1,5 @@
+S = 'spam'
+X =  'XYZ'
+line = 'aaa,bbb,ccc,ddd'
+
+other notes all in compostiion notebook
